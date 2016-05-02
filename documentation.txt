@@ -2,7 +2,7 @@ creata a repo
 
 make the same in desktop
 
-follow the commands:
+follow the command
 
 git init
 git add README.md
