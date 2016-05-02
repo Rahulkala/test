@@ -1,0 +1,11 @@
+creata a repo
+
+make the same in desktop
+
+follow the command
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Rahulkala/test.git
+git push -u origin master
