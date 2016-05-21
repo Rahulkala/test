@@ -9,3 +9,10 @@ follow the commands:
 - git commit -m "first commit"
 - git remote add origin https://github.com/Rahulkala/test.git
 - git push -u origin master
+
+
+==============================
+
+To fetch a repo
+
+git fetch origin
